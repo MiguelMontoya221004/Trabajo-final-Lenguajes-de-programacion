@@ -1,5 +1,5 @@
 # Trabajo-final-Lenguajes-de-programacion
 
 Integrantes:
-Miguel Angel Montoya Areiza-
+Miguel Angel Montoya Areiza -
 Juan Ignacio Lotero Franco
